@@ -1,0 +1,4 @@
+O código fornecido na questão 1 realiza a soma dos números inteiros de 1 a 13, parando
+quando o valor de k chega a 13 na proxima iteração. Então o código realiza a soma 
+1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13, que resulta no valor 91.
+Portanto, o valor da variável SOMA será 91.
